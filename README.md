@@ -1,3 +1,5 @@
+Students i.e USERS can post questions/Queries, Reply to Each Others questions. They can also personally messages each other. Also there is a Teacher, who can monitor the question threads and delete all unwanted and undesirable queries, can create new topic threads , reply to the queries. Further there is a admin , who can create/delete topics thread, subtopic threads, Approve a user as faculty, delete an user account, unwanted questions and manages database.  
+
 NOTICE :: ALL THE PROCESS NEED ACTIVE INTERNET CONNECTION
 
 You’ll need XAMPP Server (Version 5.6)
