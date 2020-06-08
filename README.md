@@ -3,7 +3,7 @@ Students i.e USERS can post questions/Queries, Reply to Each Others questions. T
 NOTICE :: ALL THE PROCESS NEED ACTIVE INTERNET CONNECTION
 
 You’ll need XAMPP Server (Version 5.6)
-(note : Dont use version above 5.6, otherwise database won't connect, we using some modules of 5.6 , which were taken off in higher Versions)
+(note : Dont use version above 5.6, otherwise database won't connect, we are using some modules of 5.6 , which were taken off in higher Versions)
 Lets first download XAMP from "https://xampp.site" and set it up.
 It will install Apache, Maria DB(MySQL), PHP, Perl.
 Next set up phpmyadmin , check whether phpMyAdmin is connected or not, by going to https://localhost/phpmyadmin ,Webpage should open for your localhost, if it show some error, connect it properly. 
