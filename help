@@ -1,0 +1,9 @@
+jayant@nehal-hp-notebook:~$ sudo service mysql stop
+[sudo] password for jayant: 
+jayant@nehal-hp-notebook:~$ sudo /etc/init.d/apache2 stop
+[ ok ] Stopping apache2 (via systemctl): apache2.service.
+jayant@nehal-hp-notebook:~$ sudo /opt/lampp/lampp start
+Starting XAMPP for Linux 5.6.33-0...
+XAMPP: Starting Apache...already running.
+XAMPP: Starting MySQL...ok.
+XAMPP: Starting ProFTPD...already running.
